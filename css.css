@@ -1,0 +1,20 @@
+.displayContent{
+    text-align: center;
+}
+
+.cardCountry{
+    /* justify-content: center; */
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 100px;
+    /* float: left;   */
+    display: flex;
+    width: 15rem; border:3px solid silver;
+    padding: 30px;
+    /* width: 200px;
+    height: 100px; */
+    /* padding: 10px; */
+    /* margin: 10px; */
+    display: inline-block;
+    
+}
